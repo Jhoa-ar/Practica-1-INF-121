@@ -1,0 +1,16 @@
+{
+    "nombreFarmacia": "Farmacia Sur",
+    "sucursal": 2,
+    "direccion": "Calle Falsa 456",
+    "nroMedicamentos": 1,
+    "medicamentos": [
+        {
+            "id": 3,
+            "nombre": "Bronquix",
+            "tipo": "tos",
+            "precio": 12.0,
+            "stock": 20,
+            "archivo": "C:/Users/SAMSUNG/Desktop/PERSISTENCIA DE OBJETOS/EJERCICIO3/medicamentos/medicamento3.json"
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "nombreFarmacia": "Farmacia Central",
+    "sucursal": 1,
+    "direccion": "Av. Siempre Viva 123",
+    "nroMedicamentos": 2,
+    "medicamentos": [
+        {
+            "id": 1,
+            "nombre": "Golpex",
+            "tipo": "tos",
+            "precio": 10.5,
+            "stock": 50,
+            "archivo": "C:/Users/SAMSUNG/Desktop/PERSISTENCIA DE OBJETOS/EJERCICIO3/medicamentos/medicamento1.json"
+        },
+        {
+            "id": 2,
+            "nombre": "Tabcin",
+            "tipo": "resfrio",
+            "precio": 8.0,
+            "stock": 40,
+            "archivo": "C:/Users/SAMSUNG/Desktop/PERSISTENCIA DE OBJETOS/EJERCICIO3/medicamentos/medicamento2.json"
+        }
+    ]
+}
